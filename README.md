@@ -6,7 +6,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 
 <p align="center">
-<img width="47%" src="1st.png"/>
+<img width="47%" src="1.png"/>
 </p>
 
 ## How to install D-Dos ?
