@@ -15,7 +15,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 * `apt install git -y`
 
-* `git clone https://github.com/Zeeshan-Ultra/D-Dos.git`
+* `git clone https://github.com/Zeeshan-Ali78/D-Dos.git`
 
 * `cd D-Dos`
 
